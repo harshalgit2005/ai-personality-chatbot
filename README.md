@@ -2,6 +2,21 @@
 
 An interactive AI chatbot built using Streamlit and LangChain that allows users to switch between multiple assistant personalities and chat in real time.
 
+
+## 🎥 Project Demo
+
+Watch the chatbot demonstration below:
+
+[▶ Click here to view the demo](./assets/demo.mp4)
+
+Demo includes:
+- Streamlit UI
+- Funny Bot mode
+- Serious Bot mode
+- Sarcastic Bot mode
+- Real-time chatbot responses
+
+
 ## Features
 
 * Funny Assistant Mode
